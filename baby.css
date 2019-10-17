@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto ;
+   padding: 7% 0 ;
+}
+
+img{
+    width:200px ;
+    height: 200px;
+    margin: 5px  3px ;
+    border: white 5px solid ;
+}
+.div{
+    background:rgb(179, 179, 179) ;
+     padding: 0 24% ; 
+ 
+}
+.pp{
+    position: absolute ;
+    top: 80px;
+    right: 450px;
+    z-index: 1;
+}
+.nn{
+    width: 500px;
+    height: 500px;
+}
